@@ -1,0 +1,6 @@
+Crear estructura webApp ---------> dotnet new webapi -f net6.0
+
+Para arrancar ---------> dotnet run
+
+Para conectar con el api ---------> httprepl https://localhost:{PORT}
+
